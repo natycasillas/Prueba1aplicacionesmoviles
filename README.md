@@ -9,3 +9,6 @@ Nos registramos y podemos observar nuestra hoja de vida
 ![image](https://github.com/natycasillas/Prueba1aplicacionesmoviles/assets/126585343/6d6a567c-4002-4194-9db0-0232e6da7249)
 
 ![image](https://github.com/natycasillas/Prueba1aplicacionesmoviles/assets/126585343/b6fda5d8-cbe2-4226-a2ed-705066fbb61f)
+ archivo subido a onedrive
+ https://epnecuador-my.sharepoint.com/:u:/r/personal/nataly_casillas_epn_edu_ec/Documents/ionic-firebase-9-starter.rar?csf=1&web=1&e=mSZnmV
+ 
